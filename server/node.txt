@@ -1,0 +1,3 @@
+mongodb+srv://thaihien:1234@mern-learnit.sxcvury.mongodb.net/?appName=mern-learnit
+mongodb+srv://thaihien:<db_password>@mern-learnit.sxcvury.mongodb.net/?appName=mern-learnit
+mongodb+srv://MERN:1234@mern.ov7rjko.mongodb.net/?appName=MERN
