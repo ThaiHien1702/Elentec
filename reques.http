@@ -34,7 +34,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTdiZ
 ###
 GET  http://localhost:5000/api/posts
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTdiZWM2MWMwNDUzMGZiMmU5NmM2ODciLCJpYXQiOjE3Njk4NzYxNTl9.bGe8oPgFaECzBxIkjucGJeS9g-LogjgwRXkEgqEnXR0
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTgxYWFmYzhjMGY0YThiZTRlYTM0MmYiLCJpYXQiOjE3NzAxMDYyMzd9.btoiwnV2ev1ivBHbPSRhc8ujlRbnFBSXOV5Pd7wDWLQ
 
 ###
 PUT  http://localhost:5000/api/posts/697e2b5e08aab56941a58345
